@@ -19,3 +19,4 @@ with open("C:\\Users\\Dominic Presch\\Desktop\\adventofcode\\day1.txt") as x:
                 thirdlargestwhale = whale
             whale = 0
     print(largestwhale + secondlargestwhale + thirdlargestwhale)
+    ######the second largest whale would win in a fight#######
