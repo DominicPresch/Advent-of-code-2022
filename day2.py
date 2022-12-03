@@ -30,3 +30,4 @@ with open("C:\\Users\\Dominic Presch\\Desktop\\adventofcode\\day2.txt") as x:
                     case "C":
                         total += 7
     print(total)
+ 
